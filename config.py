@@ -1,5 +1,5 @@
-API_ID = 123456       # apna Telegram API ID
-API_HASH = "abcxyz"   # apna Telegram API HASH
+API_ID =        # apna Telegram API ID
+API_HASH = ""   # apna Telegram API HASH
 ADMINS = [5654093580]  # apna Telegram user ID daalo (int), multiple bhi daal sakte ho
 
 BOT_TOKEN = ""
