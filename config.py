@@ -7,4 +7,4 @@ BOT_TOKEN = ""
 MONGO_URL = ""
 
 CHANNEL_ID = -  # jahan se video fetch karna hai
-FORCE_SUB_CHANNEL = ""  # without @
+FORCE_SUB_CHANNEL = "0"  # without @
